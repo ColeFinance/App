@@ -113,7 +113,7 @@
     "typescript": "^4.6.3"
   },
   "build": {
-    "productName": "DeFi Wallet",
+    "productName": "Cole Wallet",
     "appId": "com.defichain.DeFiWallet",
     "copyright": "Copyright © 2020-2022 ${author}",
     "asar": true,
